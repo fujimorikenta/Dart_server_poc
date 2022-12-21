@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "simple",
+			"path": "../samples/server/simple"
+		},
+		{
+			"name": "Dart_server",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
